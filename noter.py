@@ -5,7 +5,7 @@ if len(sys.argv) < 2:
     print("Usage: python noter.py <target_name>")
     sys.exit(1)
 target = str(sys.argv[1])
-path = "/Users/abidkhan/Desktop/Hack_Stuffs/Programs/"+target
+path = "ENTER YOUR WORKING PATH"+target
 
 print("[+] Making Directory")
 print("[!] Checking if There Existing Directory")
